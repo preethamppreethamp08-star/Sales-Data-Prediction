@@ -37,7 +37,7 @@ Global E-commerce Sales Dataset
 
 ## 📁 Project Files
 
-* `Project1.ipynb`
+* `sales_prediction_ml.ipynb`
 
 * `global_ecommerce_sales.csv`
 
